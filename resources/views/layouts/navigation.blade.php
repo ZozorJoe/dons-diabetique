@@ -5,7 +5,8 @@
 
             <!-- Logo -->
             <a href="{{ route('home') }}" class="flex items-center text-2xl font-bold text-blue-700">
-                🩹 Aide Diabète
+                <img src="{{ asset('images/logo.png') }}" alt="Aide Plaies Diabétiques" class="h-10 w-auto">
+                Aide Diabète
             </a>
 
             <!-- Liens desktop -->

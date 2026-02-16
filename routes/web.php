@@ -78,7 +78,7 @@ Route::middleware(['auth', 'admin'])->prefix('admin')->name('admin.')->group(fun
     Route::post('/donations/{donation}/verify', [AdminDonationController::class, 'verify'])->name('donations.verify');
 
     // Création
-    Route::get('/campaigns/create', [AdminCampaignController::class, 'create'])->name('campaigns.create');
+    Route::get('/campaigns/crea', [AdminCampaignController::class, 'create'])->name('campaigns.create');
     Route::post('/campaigns', [AdminCampaignController::class, 'store'])->name('campaigns.store');
 
     // Modification
