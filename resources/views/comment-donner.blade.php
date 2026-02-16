@@ -1,6 +1,6 @@
 @extends('layouts.app')
+@section('title', 'Aide aux opérés des plaies diabétiques - Madagascar | Dons & Soutien')
 
-@section('title', 'Comment faire un don')
 
 @section('content')
 <div class="container mx-auto px-4 py-12 md:py-16 max-w-5xl">

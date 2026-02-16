@@ -1,5 +1,5 @@
 @extends('layouts.app')
-
+@section('title', 'Aide aux opérés des plaies diabétiques - Madagascar | Dons & Soutien')
 @section('title', 'Administration')
 
 @section('content')

@@ -1,5 +1,5 @@
 @extends('layouts.app')
-
+@section('title', 'Aide aux opérés des plaies diabétiques - Madagascar | Dons & Soutien')
 @section('content')
 <div class="min-h-screen bg-gray-50">
 
