@@ -107,12 +107,12 @@
             Contactez-nous directement par WhatsApp ou email. Nous répondons rapidement.
         </p>
         <div class="flex flex-col sm:flex-row justify-center gap-6">
-            <a href="https://wa.me/261XXXXXXXXX?text=Bonjour%2C%20je%20souhaite%20faire%20un%20don%20pour%20les%20plaies%20diabétiques" 
+            <a href="https://wa.me/261347052078?text=Bonjour%2C%20je%20souhaite%20faire%20un%20don%20pour%20les%20plaies%20diabétiques" 
                target="_blank"
                class="inline-flex items-center bg-green-600 hover:bg-green-700 text-white font-medium px-8 py-4 rounded-xl transition text-lg">
                 <span class="mr-3 text-2xl">WhatsApp</span> Nous contacter
             </a>
-            <a href="mailto:contact@aideplaiesdiabetiques.mg" 
+            <a href="mailto:zozorjoe@gmail.com" 
                class="inline-flex items-center bg-gray-700 hover:bg-gray-800 text-white font-medium px-8 py-4 rounded-xl transition text-lg">
                 Envoyer un email
             </a>
